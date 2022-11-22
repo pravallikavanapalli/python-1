@@ -1,0 +1,7 @@
+sno=int(input('enter student no:'))
+sname=int(input('enter student name:'))
+group=(input('enter group:'))
+gender=input('enter gender:')
+phno=int(input('enter phone number:'))
+address=input('enter address:')
+degree_percentage=int(input('enter degree percentage:'))
